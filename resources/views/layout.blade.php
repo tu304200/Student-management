@@ -83,6 +83,15 @@
 </head>
 
 <body>
+    {{-- <div>
+        {{-- < --}}
+    {{--         
+        if (DB::connection()->getPdo()) {
+            echo 'Successfully Connected to DB and DB Name is ' . DB::connection()->getDatabaseName();
+        }
+        
+        ?>
+     --}}
     <div class="container-fluid">
         <div class="row">
             <div class="col-12">

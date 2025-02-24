@@ -17,11 +17,11 @@
 
 
                 <label>Syllabus</label><br>
-                <input type="text" name="mobile" id="mobile" value="{{ $courses->syllabus }}"
+                <input type="text" name="syllabus" id="syllabus" value="{{ $courses->syllabus }}"
                     class="form-control"><br>
 
-                 <label>Duration</label><br>
-                <input type="text" name="duration" id="duration" value="{{ $courses->duration}}"
+                <label>Duration</label><br>
+                <input type="text" name="duration" id="duration" value="{{ $courses->duration }}"
                     class="form-control"><br>
                 {{-- <label>Age</label><br>
                 <input type="text" name="age" id="age" value="{{ $students->age }}" class="form-control"><br> --}}

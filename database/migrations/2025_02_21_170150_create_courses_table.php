@@ -14,8 +14,8 @@ return new class extends Migration
         Schema::create('courses', function (Blueprint $table) {
             $table->id();
              $table->string('name');
-           // $table->string('syllabus');
-            $table->text('syllabus')->default('Chưa có chương trình giảng dạy')->change();
+           $table->string('syllabus');
+            // $table->text('syllabus')->default('Chưa có chương trình giảng dạy')->change();
 
             $table->string('duration');
             
