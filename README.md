@@ -42,6 +42,7 @@ Chứa thông tin về các khoản thanh toán của sinh viên cho các khóa 
    
 3. **Sử Dụng SQL:**
    - Sử dụng các câu truy vấn SQL để lấy thông tin, quản lý và cập nhật dữ liệu trong hệ thống.
+![image](https://github.com/user-attachments/assets/c79fe021-adb1-44a5-821e-30147fc6acd1)
 
 Ví dụ:
    - Lấy danh sách các khóa học mà một sinh viên đã đăng ký:
